@@ -111,7 +111,7 @@ const App = () => {
                                     alt={movie.title}
                                 />
                                 <img
-                                    src="/play_button.png"
+                                    src="play_button.png"
                                     alt="Play"
                                     className="w-11 h-11 absolute top-1/2 left-1/2 transform -translate-x-1/2 -translate-y-1/2 opacity-0 group-hover:opacity-100 transition-opacity duration-300 pointer-events-none"
                                 />
